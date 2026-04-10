@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-data-rest-test:4.0.2">
+    <CLASSES>
+      <root url="jar://D:/SoftWares/apache-maven-3.9.6/repository/org/springframework/boot/spring-boot-starter-data-rest-test/4.0.2/spring-boot-starter-data-rest-test-4.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/SoftWares/apache-maven-3.9.6/repository/org/springframework/boot/spring-boot-starter-data-rest-test/4.0.2/spring-boot-starter-data-rest-test-4.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/SoftWares/apache-maven-3.9.6/repository/org/springframework/boot/spring-boot-starter-data-rest-test/4.0.2/spring-boot-starter-data-rest-test-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

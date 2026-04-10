@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.security:spring-security-web:7.0.2">
+    <CLASSES>
+      <root url="jar://D:/SoftWares/apache-maven-3.9.6/repository/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/SoftWares/apache-maven-3.9.6/repository/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/SoftWares/apache-maven-3.9.6/repository/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

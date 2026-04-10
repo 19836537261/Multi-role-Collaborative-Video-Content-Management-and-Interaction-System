@@ -1,0 +1,1 @@
+start "redis_server" cmd /k ".\src\main\resources\static\redis_server\redis-server.exe"
